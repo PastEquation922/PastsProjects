@@ -8,7 +8,7 @@ Hello! I'm Past. Partial coder, YouTuber.
 
 ## Links
 
-- [Contacts]()
+- [Contacts](https://pastequation922.github.io/PastsProjects/contacts.html)
 - [Projects](https://pastequation922.github.io/PastsProjects/projects.html)
 
 ## My Personality
