@@ -9,7 +9,7 @@ Hello! I'm Past. Partial coder, YouTuber.
 ## Links
 
 - [Contacts]()
-- [Projects]()
+- [Projects](https://pastequation922.github.io/PastsProjects/projects.html)
 
 ## My Personality
 
