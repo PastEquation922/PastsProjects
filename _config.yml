@@ -2,3 +2,4 @@ theme: jekyll-theme-hacker
 github:
   is_project_page: false
 permalink: /404.html
+site_favicon: pictures/favicon.png
