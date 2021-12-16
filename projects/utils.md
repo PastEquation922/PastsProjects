@@ -3,7 +3,7 @@
 A [Discord](https://discord.gg/) bot That I made for my friend. It's the main project that I'm working on right now, And I love it.
 
 
-Learn what is a discord bot by clicking [here.]()
+Learn what is a discord bot by clicking [here.](https://pastequation922.github.io/PastsProjects/wiki/discordbot.html)
 
 It has many features. As I am still developing it, I would appreciate help. Click [here](https://dsc.gg/thepiratepast/) to help me.
 
